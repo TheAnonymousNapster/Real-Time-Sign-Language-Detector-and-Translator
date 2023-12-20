@@ -5,7 +5,7 @@
 ###### We created a database of over 6,000 images for the various labels to train the Single Shot Detector model.
 ###### Used OpenCV to activate the computer’s camera to capture and process the user’s hand gestures.
 
-# SYSTEM SPECIFICATIONS:
+# System Specifications:
 ###### • OpenCV - 4.5.2
 ###### • TensorFlow - 2.5
 ###### • Jupyter Notebook
